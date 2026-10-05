@@ -1,0 +1,1 @@
+-keep class ir.tiran.app.** { *; }
